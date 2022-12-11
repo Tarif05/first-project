@@ -7,7 +7,8 @@ int main(){
 <<<<<<< HEAD
 =======
     cout<<"rafi:<<endl;
-    cout<<Taki"<<endl;
+    cout<<"Taki"<<endl;
+    cout<<"RAFID"endl;
     return 0;
 }
 # first-project
